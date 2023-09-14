@@ -1,0 +1,186 @@
+[
+  {
+    "start": 1694563200,
+    "end": 1694563200,
+    "has_data": true,
+    "forecast": false,
+    "is_totals": false,
+    "compare": null,
+    "Expenses": -200,
+    "TotalProductCount": 0,
+    "expensesTotal": -200,
+    "expenses": [
+      {
+        "name": "Tax consultant",
+        "amount": -110
+      },
+      {
+        "name": "Warehouse",
+        "amount": -90
+      }
+    ],
+    "CostOfShipping": 0,
+    "UnitsPromo": 0,
+    "Shipping_FBA": 0,
+    "Shipping_FBM": -77.5,
+    "Shipping_Prime": 0,
+    "ShippingPick": -0.6,
+    "ShippingPack": -5,
+    "Investments": 0,
+    "Cash": 0,
+    "fb_ads_costs": -4.85,
+    "ga_ads_costs": -6.57,
+    "tiktok_ads_costs": 0,
+    "pinterest_ads_costs": 0,
+    "snapchat_ads_costs": 0,
+    "showExpansesExclamation": false,
+    "showPpcExclamation": false,
+    "showProductCostExclamation": false,
+    "sales": 753.08,
+    "orders": 79,
+    "salesOrganic": 718.12,
+    "salesPpc": 34.96,
+    "salesSd": 0,
+    "units": 84,
+    "unitsOrganic": 78,
+    "unitsPpc": 6,
+    "unitsSd": 0,
+    "promotionValue": 0,
+    "sponsoredAds": -23.32,
+    "videoAds": 0,
+    "sponsoredDisplay": 0,
+    "hsa": 0,
+    "advertising": -34.74,
+    "realACOS": 4.61,
+    "advertisingDetails": [
+      {
+        "name": "Sponsored Products",
+        "hint": "Total Sponsored Products advertising spend for the selected period. These data is provided by amazon with a 1-2 day lag",
+        "amount": -23.32
+      },
+      {
+        "name": "Sponsored Brands Video",
+        "hint": "Sponsored Brands Video advertising spend for the selected period. The data is provided by Amazon with a 1-2 days lag.",
+        "amount": 0
+      },
+      {
+        "name": "Sponsored Display",
+        "hint": "Sponsored Display is a self-service advertising solution that gives advertisers the ability to quickly launch display campaigns and reach relevant audiences across the shopping journey, on and off Amazon.",
+        "amount": 0
+      },
+      {
+        "name": "Sponsored Brands",
+        "hint": "Sponsored Brands costs are assigned to products advertised in the campaign in relation to total product's sales (including organic sales) in a given period. If there were no sales, the costs are distributed evenly among all products in the campaign.",
+        "amount": 0
+      },
+      {
+        "name": "Facebook",
+        "hint": "",
+        "amount": -4.85
+      },
+      {
+        "name": "Google",
+        "hint": "",
+        "amount": -6.57
+      }
+    ],
+    "giftWrap": 0,
+    "shippingCost": -83.1,
+    "shippingCostList": [
+      {
+        "value": -77.5,
+        "name": "FBM shipping cost",
+        "hint": "Seller's expenses for FBM Shipping. You can enter your shipping costs on account level (under \"Settings\"), product level (menu \"Products\") or on order level in sellerboard (\"Order items\" tab in the dashboard)"
+      },
+      {
+        "value": -5,
+        "name": "FBM packing cost",
+        "hint": ""
+      },
+      {
+        "value": -0.6,
+        "name": "FBM picking cost",
+        "hint": ""
+      }
+    ],
+    "refundCosts": [
+      {
+        "key": "Principal",
+        "hint": "Amount reimbursed to the customer for the products.",
+        "name": "Refunded amount",
+        "amount": -17.98
+      },
+      {
+        "key": "FBACustomerReturnPerUnitFee",
+        "hint": "FBA fee for shipment of the return from customer back to FBA warehouse",
+        "name": "FBA customer return per unit fee",
+        "amount": -2.36
+      },
+      {
+        "key": "RefundCommission",
+        "hint": "Amazon's fee for refunds processing.",
+        "name": "Refund commission",
+        "amount": -0.54
+      },
+      {
+        "key": "ProductCosts",
+        "hint": "Cost of items returned in sellable conditions.",
+        "name": "Value of returned items",
+        "amount": 1.5
+      },
+      {
+        "key": "Commission",
+        "hint": "Amazon refunded you the referral fee you paid for this product (when it was sold)",
+        "name": "Refunded referral fee",
+        "amount": 2.7
+      }
+    ],
+    "refundCostsTotal": -16.68,
+    "refunds": 2,
+    "grossProfit": 197.34,
+    "netProfit": -2.66,
+    "estimatedPayOut": 360.77,
+    "amazonFeesTotal": -350.81,
+    "amazonFees": [
+      {
+        "hint_name": "amazonFeeHint-FBAPerUnitFulfillmentFee",
+        "hint": "FBA per unit fulfilment fee",
+        "name": "FBA per unit fulfilment fee",
+        "amount": -238.5
+      },
+      {
+        "hint_name": "amazonFeeHint-Commission",
+        "hint": "Referral fee",
+        "name": "Referral fee",
+        "amount": -112.01
+      },
+      {
+        "hint_name": "amazonFeeHint-FBADisposalFee",
+        "hint": "FBA disposal fee",
+        "name": "FBA disposal fee",
+        "amount": -0.3
+      }
+    ],
+    "productCosts": -70.41,
+    "multiChannelCosts": 0,
+    "costOfMissingReturns": 0,
+    "vatCosts": 0,
+    "margin": -0.3532161257768099,
+    "salesCosts": -70.41,
+    "missingFromInboundCosts": 0,
+    "writeOffCosts": 0,
+    "refundsAmountPercent": 2.38,
+    "clicks": 105,
+    "clicksPpc": 105,
+    "clicksSd": 0,
+    "sellableQuota": 100,
+    "SellableReturns": 100,
+    "roi": -3.78,
+    "snsActiveSubscriptions": 0,
+    "directSales": 753.08,
+    "snsSubscriptionSales": 0,
+    "directUnits": 84,
+    "snsSubscriptionUnits": 0,
+    "hideSNS": true
+  }
+]

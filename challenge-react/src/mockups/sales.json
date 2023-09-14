@@ -1,0 +1,62 @@
+[
+  {
+    "sales": 596.34,
+    "discount": 0,
+    "orders-units": "57/65",
+    "refunds": 3,
+    "ad-cost": -30.42,
+    "payout": 757.52,
+    "profit-gross": 423.06,
+    "profit-net": 223.06,
+    "dateFrom": "14/09/2023",
+    "dateTo": "14/09/2023"
+  },
+  {
+    "sales": 753.34,
+    "discount": 0,
+    "orders-units": "57/65",
+    "refunds": 3,
+    "ad-cost": -30.42,
+    "payout": 757.52,
+    "profit-gross": 423.06,
+    "profit-net": 223.06,
+    "dateFrom": "13/09/2023",
+    "dateTo": "13/09/2023"
+  },
+  {
+    "sales": 8084.91,
+    "discount": 19.7,
+    "orders-units": "57/65",
+    "refunds": 3,
+    "ad-cost": -30.42,
+    "payout": 757.52,
+    "profit-gross": 423.06,
+    "profit-net": 223.06,
+    "dateFrom": "1/09/2023",
+    "dateTo": "14/09/2023"
+  },
+  {
+    "sales": 16868.27,
+    "discount": 11.4,
+    "orders-units": "57/65",
+    "refunds": 3,
+    "ad-cost": -30.42,
+    "payout": 757.52,
+    "profit-gross": 423.06,
+    "profit-net": 223.06,
+    "dateFrom": "1/09/2023",
+    "dateTo": "30/09/2023"
+  },
+  {
+    "sales": 19040.27,
+    "discount": 0,
+    "orders-units": "57/65",
+    "refunds": 3,
+    "ad-cost": -30.42,
+    "payout": 757.52,
+    "profit-gross": 423.06,
+    "profit-net": 223.06,
+    "dateFrom": "1/08/2023",
+    "dateTo": "31/08/2023"
+  }
+]
